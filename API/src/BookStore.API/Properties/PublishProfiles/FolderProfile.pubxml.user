@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\anish.j\Desktop\Misc\BookStore-master\BookStore-master\src\BookStore.API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-03-19T16:51:38.3539892Z;True|2022-03-19T12:48:53.6474927-04:00;True|2022-03-19T12:47:16.8903553-04:00;True|2022-03-19T12:46:55.6511717-04:00;True|2022-03-19T12:44:02.9006550-04:00;True|2022-03-19T12:42:40.8004949-04:00;True|2022-03-19T12:38:57.4140791-04:00;True|2022-03-19T12:10:16.0931970-04:00;True|2022-03-19T12:06:44.3791449-04:00;True|2022-03-19T11:52:19.2970974-04:00;True|2022-03-19T11:46:51.0413454-04:00;True|2022-03-19T11:35:07.0712266-04:00;</History>
+  </PropertyGroup>
+</Project>

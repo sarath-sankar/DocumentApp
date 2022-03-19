@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = BookStore.API.Tests
+build_property.ProjectDir = C:\Users\anish.j\Desktop\Misc\BookStore-master\BookStore-master\tests\BookStore.API.Tests\

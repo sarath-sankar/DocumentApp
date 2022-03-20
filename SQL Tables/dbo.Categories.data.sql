@@ -7,3 +7,4 @@ INSERT INTO [dbo].[Categories] ([Id], [Name]) VALUES (4, N'Client Communications
 INSERT INTO [dbo].[Categories] ([Id], [Name]) VALUES (5, N'Trainings')
 INSERT INTO [dbo].[Categories] ([Id], [Name]) VALUES (6, N'Infrastructure')
 SET IDENTITY_INSERT [dbo].[Categories] OFF
+GO

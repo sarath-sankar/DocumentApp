@@ -1,4 +1,4 @@
-﻿USE [bookstore]
+﻿USE [BookStore]
 GO
 
 /****** Object: Table [dbo].[Categories] Script Date: 3/19/2022 1:14:21 PM ******/

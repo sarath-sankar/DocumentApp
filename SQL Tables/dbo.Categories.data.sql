@@ -1,4 +1,4 @@
-USE bookstore
+USE BookStore
 SET IDENTITY_INSERT [dbo].[Categories] ON
 INSERT INTO [dbo].[Categories] ([Id], [Name]) VALUES (1, N'Audit Guidelines')
 INSERT INTO [dbo].[Categories] ([Id], [Name]) VALUES (2, N'Support Tickets')

@@ -1,4 +1,4 @@
-USE bookstore
+USE BookStore
 SET IDENTITY_INSERT [dbo].[Books] ON
 INSERT INTO [dbo].[Books] ([Id], [Name], [Author], [Description], [Value], [PublishDate], [CategoryId]) VALUES (1, N'VM Details', N'Anish J', N'Application environments', 0, N'2021-10-02 04:00:00', 6)
 INSERT INTO [dbo].[Books] ([Id], [Name], [Author], [Description], [Value], [PublishDate], [CategoryId]) VALUES (2, N'Data Scrubbing Tool', N'Satheesh S', N'Installation Instructions', 0, N'2021-11-25 00:00:00', 6)
